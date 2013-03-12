@@ -1,4 +1,4 @@
-print "Exercise 2: Comments And Pound Characters"
+print "Exercise 2: Comments And Pound Characters \n"
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by python.
 
