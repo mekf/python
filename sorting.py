@@ -7,7 +7,8 @@ def InsertsionSort(A):
 			i -= 1
 		A[i+1] = key
 
-x = input("define an array \n> ")
+x = input("define a list, separted by comma \n> ")
+x.split(',')
 
 print "input:"
 print x
