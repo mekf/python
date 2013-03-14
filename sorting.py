@@ -7,11 +7,13 @@ def InsertsionSort(A):
 			i -= 1
 		A[i+1] = key
 
-x = input("define a list, separted by comma \n> ")
-x.split(',')
+x = raw_input("define a list?, separted by comma \n> ")
+x = x.split(',')
 
 print "input:"
 print x
+# print "converted input:"
+# print y
 
 InsertsionSort(x)
 print "output:"
