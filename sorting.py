@@ -12,8 +12,6 @@ x = x.split(',')
 
 print "input:"
 print x
-# print "converted input:"
-# print y
 
 InsertsionSort(x)
 print "output:"
